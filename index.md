@@ -11,7 +11,7 @@ sections:
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: cool button
-      url: /contact-us/weqewqwe
+      url: /doesntexist
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
