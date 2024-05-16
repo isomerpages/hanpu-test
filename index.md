@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
-          url: https://google.com
+          url: /page1
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
@@ -31,7 +31,7 @@ sections:
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
-      url: broesdfsdfajsdhfFDSFKJ
+      url: /broesdfsdfajsdhfFDSFKJ
   - textcards:
       title: Text Cards
       subtitle: Add informational text
