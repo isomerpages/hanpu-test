@@ -31,7 +31,7 @@ sections:
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
-      url: /faq/
+      url: broesdfsdfajsdhfFDSFKJ
   - textcards:
       title: Text Cards
       subtitle: Add informational text
