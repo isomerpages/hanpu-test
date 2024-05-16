@@ -50,4 +50,8 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
