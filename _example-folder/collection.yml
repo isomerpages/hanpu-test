@@ -4,4 +4,4 @@ collections:
     order:
       - FP11.md
       - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - example-subfolder/SP11.md
