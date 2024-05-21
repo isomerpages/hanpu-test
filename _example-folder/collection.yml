@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Email error test.md
       - FP11.md
       - example-subfolder/.keep
       - example-subfolder/SP11.md
