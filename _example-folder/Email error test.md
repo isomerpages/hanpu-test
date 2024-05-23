@@ -4,4 +4,4 @@ permalink: /email-error-test/
 variant: markdown
 description: ""
 ---
-[Email error](mailto:hanpu@open.gov.sg)
+[Email error](hanpu@open.gov.sg)
