@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - test2.md
       - test1.md
       - Email error test.md
       - FP11.md
