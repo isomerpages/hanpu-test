@@ -6,5 +6,6 @@ collections:
       - test1.md
       - Email error test.md
       - FP11.md
+      - example-subfolder/SP12.md
       - example-subfolder/.keep
       - example-subfolder/SP11.md
