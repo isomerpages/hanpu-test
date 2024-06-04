@@ -2,4 +2,5 @@ collections:
   asdasdasdasdasdasdasdasd:
     output: true
     order:
+      - Asdasdasdasdasdasdasdasdasdasd/faq.md
       - Asdasdasdasdasdasdasdasdasdasd/.keep
